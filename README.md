@@ -1,65 +1,26 @@
-# Phase 1 Project
+# Microsoft Movie Studio Project
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+**Overview:**
+This project revolves around Microsoft's venture into the film industry by establishing a new movie studio, despite limited prior experience. The primary goal is to gain insights into the current film market, including prevalent film genres, highly rated genres, and genres with high audience engagement. These insights are essential for informed decision-making, enabling Microsoft's movie studio to compete effectively and create films that resonate with audiences.
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
+**Key Objectives:**
+1. Identify the most common and prevalent film genres in the industry.
+2. Discover highly rated genre combinations with potential for critical acclaim.
+3. Determine which genres receive the highest audience engagement.
+4. Understand the significance of international markets in a film's overall success.
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+**Findings:**
+- "Documentary" emerges as the most common genre, indicating widespread production.
+- Genre combinations like "Comedy, Documentary, Fantasy" and "Documentary, Family, Musical" hold promise for both critical acclaim and audience engagement.
+- "Action-Adventure-Sci-Fi" films receive the highest audience engagement, emphasizing an interest in action and science fiction elements.
+- International markets play a vital role in a film's overall success, emphasizing the need for a global approach to production and distribution.
 
-## Project Overview
+**Recommendations:**
+1. Diversify the film portfolio to include a mix of genres, including those with high audience engagement.
+2. Explore top-rated genre combinations to create projects that resonate with audiences.
+3. Embrace international markets and produce films with global appeal.
+4. Tailor films to international audiences as well as investing in targeted international marketing, localization, and distribution strategies to further capitalize on the global audience and maximize revenue from foreign markets.
+5. Strategically plan the release of their big-budget and highly-anticipated movies during the summer months when the box office tends to perform exceptionally well.
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
-
-### Business Problem
-
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
-
-### The Data
-
-In the folder `zippedData` are movie datasets from:
-
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
-
-## Deliverables
-
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
-
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+**Project Outcome:**
+This project equips Microsoft's new movie studio with valuable insights to make informed decisions about film production and positioning in the competitive industry. The focus is on creating high-quality, diverse content that caters to audience preferences and explores international opportunities. Success in the film industry will be driven by a strategic approach to both content and distribution.
